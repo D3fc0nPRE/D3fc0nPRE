@@ -1,4 +1,7 @@
 #GHDB
+
+
+
 admin account info" filetype:log 
 !Host=*.* intext:enc_UserPassword=* ext:pcf 
 "# -FrontPage-" ext:pwd inurl:(service | authors | administrators | users) "# -FrontPage-" inurl:service.pwd 
