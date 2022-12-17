@@ -1,6 +1,6 @@
 #GHDB
 
-
+https://sites.google.com/site/jatedisse/all-google-hacking-keywords
 
 admin account info" filetype:log 
 !Host=*.* intext:enc_UserPassword=* ext:pcf 
